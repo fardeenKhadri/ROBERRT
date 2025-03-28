@@ -121,7 +121,7 @@ http://esp1.local/mjpeg/1
 ```
 https://youtu.be/qA6Gnl7RdMo?si=hoSHPDwKz-Uz3fKa
 
-[![ROBERRT]([https://youtu.be/qA6Gnl7RdMo?si=hoSHPDwKz-Uz3fKa])
+[![ROBERRT](https://img.youtube.com/vi/qA6Gnl7RdMo/0.jpg)](https://www.youtube.com/watch?v=qA6Gnl7RdMo)
 
 
 ```
