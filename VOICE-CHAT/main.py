@@ -13,7 +13,6 @@ import pyaudio
 import PIL.Image
 from dotenv import load_dotenv
 
-from google import genai
 
 if sys.version_info < (3, 11, 0):
     import taskgroup, exceptiongroup
@@ -33,14 +32,6 @@ MODEL = os.getenv('MODELS')
 
 SYSTEM_PROMPT = "Your name is Dharshini, when prompted to provide sources or code by the user tell them you cannot help them with that. You can see what the user sees you only analyse it and provide feedback imagining that the user is visually impaired and cannot see well. Be gentle in your replies"
 
-# Get API key from environment variable
-api_key = os.getenv('API_KEY')
-if not api_key:
-    raise ValueError("Please set the API_KEY environment variable")
-
-client = genai.Client(
-    api_key=api_key,
-    http_options={'api_version': 'v1alpha'})
 
 CONFIG = {
     "generation_config": {
