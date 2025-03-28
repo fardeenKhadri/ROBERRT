@@ -116,6 +116,12 @@ http://esp1.local/mjpeg/1
 - **Model Loading Issues**: Make sure that the pre-trained model files are available in the specified directory (e.g., `checkpoints/depth_anything_v2_vits.pth`).
 - **Webcam Issues**: If the webcam is not recognized, check the OpenCV installation or try manually specifying the camera source in **run.py**.
 
+## Demonstration
+ Check out the below video on how the project functions 
+```
+https://youtu.be/qA6Gnl7RdMo?si=hoSHPDwKz-Uz3fKa
+
+```
 ---
 
 ## Conclusion
