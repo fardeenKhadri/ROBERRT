@@ -103,7 +103,7 @@ ROBERRT/
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 ```
-In Order to run check the streaming of esp32 cam refer the link 
+In Order to check the streaming of esp32 cam refer the link 
 ```
 http://esp1.local/mjpeg/1
 ```
