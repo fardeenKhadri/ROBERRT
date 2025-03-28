@@ -118,6 +118,7 @@ http://esp1.local/mjpeg/1
 
 ## Demonstration
  Check out the below video on how the project functions 
+ [![Watch the video](https://img.youtube.com/vi/qA6Gnl7RdMo/0.jpg)](https://youtu.be/qA6Gnl7RdMo)
 ```
 https://youtu.be/qA6Gnl7RdMo?si=hoSHPDwKz-Uz3fKa
 
